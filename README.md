@@ -1,5 +1,5 @@
 # pipelines-project
-Creation of a .py file that receive inputs through terminal and deliver custom graphs.
+Creation of a .py file that receive inputs through terminal and deliver custom graphs [08.11.19-10.11.19]
 
 It is shown some .png results on "output" folder.
 The main .py file is in "src" folder
