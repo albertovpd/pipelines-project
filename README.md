@@ -49,6 +49,8 @@ In case you are using Python 3, from /src:
 
     python3 main.py -a "first optional argument" -b "second optional argument"
 
+# Conclusion
+
 ### Accomplished goals:
 
 - Develop an effective pipeline with clean code.
