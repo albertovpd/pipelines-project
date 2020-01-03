@@ -58,7 +58,7 @@ In case you are using Python 3, from /src:
 - Display graphs through terminal.
 - Save your plots
 
-# Improvements:
+### Future improvements:
 
 - Enlarge the dataset.
 - Apply ML to predict future prices.
