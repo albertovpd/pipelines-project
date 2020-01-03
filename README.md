@@ -62,6 +62,7 @@ In case you are using Python 3, from /src:
 
 ### Future improvements:
 
+- Better plot labellings 
 - Enlarge the dataset.
 - Apply ML to predict future prices.
 - Finish the graph results with proper label and legends.
