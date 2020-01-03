@@ -21,6 +21,7 @@ def working(data):
     economics_error=economics.groupby("year")["price day ahead","price actual"].unc.mean()
     newnames=economics_error.rename(columns={"price day ahead":"uncertainty ahead", "price actual":"uncertainty actual"})
     eco=economics_values.join(newnames)
+    
     return eco
 
 
@@ -67,6 +68,7 @@ def results(dataset, a, b=None):
             plt.plot(dataset.index, dataset[a], dataset.index, dataset[b])
             plt.xlabel("years")
             plt.ylabel("Blue: 1st input. Orange: 2nd input")
+            plt.savefig('../output/your_plot.pdf')  
             return plt.show()
         
         else:
