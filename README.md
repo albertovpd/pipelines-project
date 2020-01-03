@@ -9,7 +9,7 @@ I have been working with datasets and performing web scraping to show the mean p
 ![alt text](https://github.com/albertovpd/pipelines-project/blob/master/output/output%20example.png "terminal")
 
 - Web scraping
-![alt text]( "web enriching")
+![alt text](https://raw.githubusercontent.com/albertovpd/pipelines-project/master/output/web-enriching.png "web enriching")
 
 # Introduction:
 
